@@ -1,6 +1,6 @@
 :root {
   --primary-color: rgb(128, 0, 128);
-  --primary-contrast-color: #fff;
+  --primary-contrast-color: #e6e6fa;
   --font-family: "Roboto", sans-serif;
   --button-radius: 6px;
 }
